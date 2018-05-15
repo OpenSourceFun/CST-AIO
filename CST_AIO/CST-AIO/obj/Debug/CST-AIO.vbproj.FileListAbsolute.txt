@@ -1,0 +1,48 @@
+c:\users\pbelford\documents\visual studio 2015\Projects\CST-AIO\CST-AIO\bin\Debug\CST-AIO.exe.config
+c:\users\pbelford\documents\visual studio 2015\Projects\CST-AIO\CST-AIO\bin\Debug\CST-AIO.exe
+c:\users\pbelford\documents\visual studio 2015\Projects\CST-AIO\CST-AIO\bin\Debug\CST-AIO.pdb
+c:\users\pbelford\documents\visual studio 2015\Projects\CST-AIO\CST-AIO\bin\Debug\CST-AIO.xml
+c:\users\pbelford\documents\visual studio 2015\Projects\CST-AIO\CST-AIO\obj\Debug\CST-AIO.vbprojResolveAssemblyReference.cache
+c:\users\pbelford\documents\visual studio 2015\Projects\CST-AIO\CST-AIO\obj\Debug\CST_AIO.Resources.resources
+c:\users\pbelford\documents\visual studio 2015\Projects\CST-AIO\CST-AIO\obj\Debug\CST-AIO.vbproj.GenerateResource.Cache
+c:\users\pbelford\documents\visual studio 2015\Projects\CST-AIO\CST-AIO\obj\Debug\CST-AIO.exe
+c:\users\pbelford\documents\visual studio 2015\Projects\CST-AIO\CST-AIO\obj\Debug\CST-AIO.xml
+c:\users\pbelford\documents\visual studio 2015\Projects\CST-AIO\CST-AIO\obj\Debug\CST-AIO.pdb
+c:\users\pbelford\documents\visual studio 2015\Projects\CST-AIO\CST-AIO\obj\Debug\CST_AIO.CSTAIO.resources
+c:\users\pbelford\documents\visual studio 2015\Projects\CST-AIO\CST-AIO\obj\Debug\CST_AIO.LongTemp.resources
+C:\Users\pbelford\documents\visual studio 2015\Projects\CST-AIO\CST-AIO\obj\Debug\CST_AIO.ShortTemp.resources
+C:\Users\pbelford\documents\visual studio 2015\Projects\CST-AIO\CST-AIO\obj\Debug\CST_AIO.HDTemp.resources
+S:\CST_IR\Call_Center\Programs\CST-AIO\CST-AIO\bin\Debug\CST-AIO.exe.config
+S:\CST_IR\Call_Center\Programs\CST-AIO\CST-AIO\bin\Debug\CST-AIO.exe
+S:\CST_IR\Call_Center\Programs\CST-AIO\CST-AIO\bin\Debug\CST-AIO.pdb
+S:\CST_IR\Call_Center\Programs\CST-AIO\CST-AIO\bin\Debug\CST-AIO.xml
+S:\CST_IR\Call_Center\Programs\CST-AIO\CST-AIO\obj\Debug\CST-AIO.vbprojResolveAssemblyReference.cache
+S:\CST_IR\Call_Center\Programs\CST-AIO\CST-AIO\obj\Debug\CST_AIO.CSTAIO.resources
+S:\CST_IR\Call_Center\Programs\CST-AIO\CST-AIO\obj\Debug\CST_AIO.HDTemp.resources
+S:\CST_IR\Call_Center\Programs\CST-AIO\CST-AIO\obj\Debug\CST_AIO.LongTemp.resources
+S:\CST_IR\Call_Center\Programs\CST-AIO\CST-AIO\obj\Debug\CST_AIO.Resources.resources
+S:\CST_IR\Call_Center\Programs\CST-AIO\CST-AIO\obj\Debug\CST_AIO.ShortTemp.resources
+S:\CST_IR\Call_Center\Programs\CST-AIO\CST-AIO\obj\Debug\CST-AIO.vbproj.GenerateResource.Cache
+S:\CST_IR\Call_Center\Programs\CST-AIO\CST-AIO\obj\Debug\CST-AIO.exe
+S:\CST_IR\Call_Center\Programs\CST-AIO\CST-AIO\obj\Debug\CST-AIO.xml
+S:\CST_IR\Call_Center\Programs\CST-AIO\CST-AIO\obj\Debug\CST-AIO.pdb
+C:\Users\pbelford\CST_AIO\CST-AIO\bin\Debug\CST-AIO.exe.config
+C:\Users\pbelford\CST_AIO\CST-AIO\bin\Debug\CST-AIO.exe.manifest
+C:\Users\pbelford\CST_AIO\CST-AIO\bin\Debug\CST-AIO.application
+C:\Users\pbelford\CST_AIO\CST-AIO\bin\Debug\CST-AIO.exe
+C:\Users\pbelford\CST_AIO\CST-AIO\bin\Debug\CST-AIO.pdb
+C:\Users\pbelford\CST_AIO\CST-AIO\bin\Debug\CST-AIO.xml
+C:\Users\pbelford\CST_AIO\CST-AIO\obj\Debug\CST-AIO.vbproj.ResolveComReference.cache
+C:\Users\pbelford\CST_AIO\CST-AIO\obj\Debug\CST_AIO.CSTAIO.resources
+C:\Users\pbelford\CST_AIO\CST-AIO\obj\Debug\CST_AIO.DMCA.resources
+C:\Users\pbelford\CST_AIO\CST-AIO\obj\Debug\CST_AIO.HDTemp.resources
+C:\Users\pbelford\CST_AIO\CST-AIO\obj\Debug\CST_AIO.LongTemp.resources
+C:\Users\pbelford\CST_AIO\CST-AIO\obj\Debug\CST_AIO.Resources.resources
+C:\Users\pbelford\CST_AIO\CST-AIO\obj\Debug\CST_AIO.ShortTemp.resources
+C:\Users\pbelford\CST_AIO\CST-AIO\obj\Debug\CST-AIO.vbproj.GenerateResource.Cache
+C:\Users\pbelford\CST_AIO\CST-AIO\obj\Debug\CST-AIO.TrustInfo.xml
+C:\Users\pbelford\CST_AIO\CST-AIO\obj\Debug\CST-AIO.exe.manifest
+C:\Users\pbelford\CST_AIO\CST-AIO\obj\Debug\CST-AIO.application
+C:\Users\pbelford\CST_AIO\CST-AIO\obj\Debug\CST-AIO.exe
+C:\Users\pbelford\CST_AIO\CST-AIO\obj\Debug\CST-AIO.xml
+C:\Users\pbelford\CST_AIO\CST-AIO\obj\Debug\CST-AIO.pdb

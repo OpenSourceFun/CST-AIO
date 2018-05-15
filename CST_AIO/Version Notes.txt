@@ -1,0 +1,47 @@
+Customer Support Technician - All In One Launchpad 
+
+This program was created with the intent of reducing time needed to locate commonly used materials. 
+
+Version 1.1.3.1
+	Changed Sales Lead to Upsell Offer on Help Desk Template.
+
+Version 1.1.3.0
+	Changed Sales Lead to Upsell Offer on all 3 forms
+	Changed Security Maintenance to Camera Maintenance
+	Changed Leased Phone option to leased Wifi Extender.
+	Added proper installer
+	Added Creative Commons License
+
+Version 1.1.2.3
+	Added Right Click Context Menu to Rich Text Boxes
+	Removed unneeded program name label
+	Rearranged Always on top and opacity slider.
+
+Version 1.1.2.2
+	Added Opacity slider
+	Added Always on top, TopMost checkbox.
+
+Version 1.1.2.1
+	Corrected NA not showing correctly on all forms.
+	Corrected Long Template defaulting yes to IWM
+	Added buttons to launch neustar, toly, special Circuits, coweb, sas, and calix.	
+
+Version 1.1.2
+	Corrected some spelling issues
+	Added a default Icon
+	Minor Graphical and Info Changes.
+
+Version 1.1.1
+	Added Additional Launch Buttons. Fixed tabbing on the menu form.
+
+Version 1.1 
+	Corrected Tabbing index and corrected forms auto selecting a radio button at load.
+
+Version 1.0
+	The program was drafted and tested for fuctonality. It seems to perform normally on all fronts.
+
+
+
+
+
+
