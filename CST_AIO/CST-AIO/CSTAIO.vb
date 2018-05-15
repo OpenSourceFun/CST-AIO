@@ -22,37 +22,37 @@ Public Class CSTAIO
 
     Private Sub btnScripts_Click(sender As Object, e As EventArgs) Handles btnScripts.Click
         'Launches browser to Scripts page
-        Process.Start("https://rtctel.sharepoint.com/:w:/r/serviceful/custop/_layouts/15/WopiFrame.aspx?sourcedoc=%7b4F68AB93-4102-4147-9EC1-1116DBE3F21B%7d&file=Trouble%20Ticket%20Scripts.docx&action=default")
+        Process.Start("")
     End Sub
 
     Private Sub btnDispatchPricing_Click(sender As Object, e As EventArgs) Handles btnDispatchPricing.Click
         'launces browser to the dispatch pricing page.
-        Process.Start("https://rtctel.sharepoint.com/:w:/r/serviceful/custop/_layouts/15/WopiFrame.aspx?sourcedoc=%7b8A8E8B1A-E213-4349-9DD1-81D542D408A0%7d&file=Guidelines%20for%20Truck%20Rolls.docx&action=default")
+        Process.Start("")
     End Sub
 
     Private Sub btnRedPricing_Click(sender As Object, e As EventArgs) Handles btnRedPricing.Click
         'Launched browser to red pricing manual
-        Process.Start("https://rtctel.sharepoint.com/:p:/r/serviceful/ccc/_layouts/15/WopiFrame.aspx?sourcedoc=%7BEB6DB67B-9B7C-4ED0-B85C-0A51F533B67A%7D&file=Red%20Pricing%20Manual.pptx&action=default")
+        Process.Start("")
     End Sub
 
     Private Sub btnCallCenterMan_Click(sender As Object, e As EventArgs) Handles btnCallCenterMan.Click
         'Launches browser to callcenter manual 
-        Process.Start("https://rtctel.sharepoint.com/serviceful/CallCenter/Manual/Home.aspx")
+        Process.Start("")
     End Sub
 
     Private Sub btnCustOP_Click(sender As Object, e As EventArgs) Handles btnCustOP.Click
         'launches browser to Customers Operations folder.
-        Process.Start("https://rtctel.sharepoint.com/serviceful/custop/Shared%20Documents/Forms/AllItems.aspx?viewpath=%2Fserviceful%2Fcustop%2FShared%20Documents%2FForms%2FAllItems.aspx")
+        Process.Start("")
     End Sub
 
     Private Sub btnFCCRegulations_Click(sender As Object, e As EventArgs) Handles btnFCCRegulations.Click
         'Launches browser to security manuals folder
-        Process.Start("https://rtctel.sharepoint.com/:o:/r/serviceful/ccc/_layouts/15/WopiFrame.aspx?sourcedoc={510035ed-01ea-4fc7-91d7-00b19720711e}&action=editnew")
+        Process.Start("")
     End Sub
 
     Private Sub btnMetaview_Click(sender As Object, e As EventArgs) Handles btnMetaview.Click
         'Launches browser to the MetaView connection internally.
-        Process.Start("http://192.168.29.51:8087/")
+        Process.Start("")
     End Sub
 
     Private Sub btnNovaSubscriber_Click(sender As Object, e As EventArgs) Handles btnNovaSubscriber.Click
@@ -72,17 +72,17 @@ Public Class CSTAIO
 
     Private Sub btnSAS_Click(sender As Object, e As EventArgs) Handles btnSAS.Click
         'Launches browser to SAS login on the Local SAS server.
-        Process.Start("https://192.168.29.30/serviceassurance/login/login")
+        Process.Start("")
     End Sub
 
     Private Sub btnCoWeb_Click(sender As Object, e As EventArgs) Handles btnCoWeb.Click
         'Launches browser to COWEB call logs.
-        Process.Start("http://coweb.rtctel.com/calls/")
+        Process.Start("")
     End Sub
 
     Private Sub btnNeustar_Click(sender As Object, e As EventArgs) Handles btnNeustar.Click
         'Launches browser to Neustar Call Center Page with a link to login.
-        Process.Start("https://rtctel.sharepoint.com/serviceful/CallCenter/Manual/Neustar%20Database.aspx")
+        Process.Start("")
     End Sub
 
     Private Sub btnBandwidth_Click(sender As Object, e As EventArgs) Handles btnBandwidth.Click
@@ -92,7 +92,7 @@ Public Class CSTAIO
 
     Private Sub btnSpecialCircuits_Click(sender As Object, e As EventArgs) Handles btnSpecialCircuits.Click
         'Launches browser to Special Ciruits Ticketing login site.
-        Process.Start("https://specialcircuits.rtctel.com/")
+        Process.Start("")
     End Sub
 
     Private Sub btnCalix_Click(sender As Object, e As EventArgs) Handles btnCalix.Click
